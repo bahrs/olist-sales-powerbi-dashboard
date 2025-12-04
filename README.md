@@ -1,7 +1,9 @@
 # Olist Sales Overview — Power BI Dashboard
 
-This project is a simple BI case based on the public **Brazilian E-Commerce Olist Dataset**.
+This project is a simple BI case based on the public [**Brazilian E-Commerce Olist Dataset**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 The goal is to demonstrate basic product/sales analytics using **Python (pandas)** for data preparation and **Power BI** for dashboarding.
+
+![Power BI dashboard screenshot](img/01_total_revenue_dashboard.png)
 
 ## Stack
 
