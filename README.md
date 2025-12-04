@@ -3,6 +3,8 @@
 This project is a simple BI case based on the public **Brazilian E-Commerce Olist Dataset**.
 The goal is to demonstrate basic product/sales analytics using **Python (pandas)** for data preparation and **Power BI** for dashboarding.
 
+![Power BI dashboard screenshot](img/01_total_revenue_dashboard.png)
+
 ## Stack
 
 - Python: pandas, Jupyter Notebook (data preparation & aggregation)
